@@ -29,12 +29,14 @@ Many companies have shifted into the product because of its ability to run on an
 ## Installation
 
   1. Fork and clone repository to local machine.
-  2. Run ```npm i``` to install dependencies in local project directory. 
-  3. Run ```npm install --save-dev webpack``` to install Webpack. 
+  2. Open integrated terminal in personal IDE. 
+  3. Run ```npm i``` to install dependencies in local project directory. 
+  4. Run ```npm install --save-dev webpack``` to install Webpack. 
 
   
 ## Usage
 
   1. Use application through the deployed link above.
+  2. Else, open integrated terminal in personal IDE.
   2. Run ```npm run start:dev``` to initiate webpack build and start server on local port. 
   3. For offline use, user can go to the link and click the "install" button to open the web application on home screen. 
