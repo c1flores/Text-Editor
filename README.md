@@ -28,10 +28,10 @@ Many companies have shifted into the product because of its ability to run on an
 
 ## Installation
 
-  - Clone the repository to your local machine.
-  - To install dependencies, run '''npm i''' as this will install all necessary dependencies. 
+  1. Fork and clone repoitory to local machine.
+  2. Run ```npm i``` to install dependencies in local project directory. 
   
 ## Usage
 
-  - Use application through the deployed link above.
-  - For offline use, user can go to the link and click the "install" button to open the web application on home screen. 
+  1. Use application through the deployed link above.
+  2. For offline use, user can go to the link and click the "install" button to open the web application on home screen. 
