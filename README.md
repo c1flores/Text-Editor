@@ -1,6 +1,5 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [What is a progressive web application?](#what-is-a-progressive-web-application)
   - [Screen Capture](#screen-capture)
