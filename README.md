@@ -4,7 +4,7 @@
   - [Overview](#overview)
   - [What is a progressive web application?](#what-is-a-progressive-web-application)
   - [Screen Capture](#screen-capture)
-  - [Link to Screen Recording of Application](#link-to-screen-recording-of-application)
+  - [Deployed Application](#deployed-application)
   - [Installation](#installation)
   - [Usage](#usage)
   
@@ -22,16 +22,17 @@ Characteristics of a progressive web app include:
 Many companies have shifted into the product because of its ability to run on an android and iOS without much difference. Some good examples of top companies who have their products as PWAs include: Twitter, Pinterest, Uber, Tiktok, and Spotify.
 
 ## Screen Capture
-![]()
+![](https://user-images.githubusercontent.com/81927296/208821242-1cb0c481-b523-4bfa-91af-caba375be601.gif)
 
-## Link to Screen Recording of Application
-[Google Drive Link]()
+## Deployed Application
+[Heroku Link](https://jate-text-editrr.herokuapp.com/)
 
 ## Installation
 
-  - 
-  -
+  - Clone the repository to your local machine.
+  - To install dependencies, run '''npm i''' as this will install all necessary dependencies. 
   
 ## Usage
 
-  -
+  - Use application through the deployed link above.
+  - For offline use, user can go to the link and click the "install" button to open the web application on home screen. 
