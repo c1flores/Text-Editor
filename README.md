@@ -1,7 +1,7 @@
 # Table of Contents
 
   - [Overview](#overview)
-  - [What is a progressive web application?](#what-is-a-progressive-web-application)
+  - [What is a Progressive Web Application?](#what-is-a-progressive-web-application)
   - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Live Application](#live-application)
