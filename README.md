@@ -2,6 +2,7 @@
 
   - [Overview](#overview)
   - [What is a progressive web application?](#what-is-a-progressive-web-application)
+  - [Technologies Used](#technologies-used)
   - [Screen Capture](#screen-capture)
   - [Deployed Application](#deployed-application)
   - [Installation](#installation)
@@ -19,6 +20,26 @@ Characteristics of a progressive web app include:
   - Independent connectivity for offline functionality. 
 
 Many companies have shifted into the product because of its ability to run on an android and iOS without much difference. Some good examples of top companies who have their products as PWAs include: Twitter, Pinterest, Uber, Tiktok, and Spotify.
+
+ ## Technologies Used
+<div style="display: inline_block"><br>
+  <img height="40" align="center" alt="Chris-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="40" align="center" alt="Chris-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img height="40" align="center" alt="Chris-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Chris-Eslint height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img height="40" align="center" alt="Chris-Webpack height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Chris-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" align="center" alt="Chris-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+  
+</br>
 
 ## Screen Capture
 ![](https://user-images.githubusercontent.com/81927296/208821242-1cb0c481-b523-4bfa-91af-caba375be601.gif)
