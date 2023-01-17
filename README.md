@@ -1,5 +1,9 @@
-# Table of Contents
 
+<!-- omit in toc -->
+# Text-Editor
+
+<!-- omit in toc -->
+## Table of Contents
   - [Overview](#overview)
   - [What is a Progressive Web Application?](#what-is-a-progressive-web-application)
   - [Technologies Used](#technologies-used)
